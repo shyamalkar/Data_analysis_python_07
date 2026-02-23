@@ -9,10 +9,10 @@ Where use this ?
 we can use this data analysis process in almost every mmodern industry to make better decision. It is no
 longer for tech companies - it's use small shop and global corporation . 
 
-1. Business,
-2. Healthcare,
-3. Finance,
-4. customer behavior. 
+      1. Business,
+      2. Healthcare,
+      3. Finance,
+      4. customer behavior. 
 
 How many major steps in Data analysis ?
  
