@@ -4,6 +4,7 @@ steps where you can follow and succesfully
 download anaconda software ?
 
  Step1:-
+ 
         1. Go to the google search.
         2. Open google .
         3. Search Anaconda software . 
