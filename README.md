@@ -60,7 +60,6 @@ What skill's i cover here ?
                     R Squared 1
                     R Squared 2
                     
-
 Library that i have use in this project:-
 
                      Scintific computing libraries 
