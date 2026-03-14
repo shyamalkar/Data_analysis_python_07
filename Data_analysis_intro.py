@@ -14,7 +14,7 @@ longer for tech companies - it's use small shop and global corporation .
       3. Finance,
       4. customer behavior. 
 
-How many major steps in Data analysis ?
+How many major steps in Data analysis ? 
  
 Collection of Data
 
